@@ -1,1 +1,3 @@
-Write a readme
+This game asks the user to enter either "0" or "1" 10 times and the machine will output what it thinks the user would have entered next.
+
+The core of the backpropagation method was leared from Milo Spencer's "How to build a simple neural network in 9 lines of Python code"
